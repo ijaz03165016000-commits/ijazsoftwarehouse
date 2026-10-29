@@ -1,1 +1,3 @@
 PUBLISH_LIVE.bat
+.vercel
+.env*
