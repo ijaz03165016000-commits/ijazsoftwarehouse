@@ -37,6 +37,12 @@
       promo: { until: "2026-10-10", en: "🤖 New: Automation & Robotics batch starts 10 Oct, only 5 seats", ur: "🤖 نیا: آٹومیشن اور روبوٹکس بیچ 10 اکتوبر سے، صرف 5 سیٹیں" }
     },
     {
+      id: "kidscolours.online", color: "#ec4899", color2: "#8b5cf6", icon: "👶",
+      url: "https://kidscolours.online/",
+      en: { tag: "KIDS & BABY STORE • MIRPUR", title: "Kids Colours", text: "Premium kids clothing, newborn essentials, baby accessories & toys with express nationwide delivery.", cta: "Shop online" },
+      ur: { tag: "بچوں کا لباس اور کھلونے • میرپور", title: "کڈز کلرز اسٹور", text: "بچوں کے فینسی ملبوسات، نومولود اشیاء، بیبی کیئر اور کھلونے۔ میرپور اور ملک بھر میں تیز ترین ڈیلیوری۔", cta: "آن لائن شاپنگ کریں" }
+    },
+    {
       id: "newkarachi.online", color: "#dc2626", color2: "#f97316", icon: "🍕",
       url: "https://newkarachi.online/",
       en: { tag: "FOOD DELIVERY · MIRPUR", title: "New Karachi Ice Cream & Pizza", text: "Pizza, zingers, broast, shawarma and special falooda. Delivery 10 AM to 2 AM.", cta: "Order now" },
